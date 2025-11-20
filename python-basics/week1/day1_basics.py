@@ -1,6 +1,5 @@
 # Day 1: Python Basics
 # Author: alpapathak
-# Date: [Today's date]
 
 # ============================================
 # 1. VARIABLES AND DATA TYPES
